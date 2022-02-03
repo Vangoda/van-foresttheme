@@ -1,5 +1,14 @@
 {
     "name": "van-foresttheme",
+    "author": {
+        "email": "vangoda@vangoda.com",
+        "name": "Ivan Jurić",
+        "url": "vangoda.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Vangoda/van-foresttheme.git"
+    },
     "displayName": "Van-ForestTheme",
     "description": "Vangoda's forest theme for VS Code. Predominantly green and brown.",
     "version": "0.0.1",
