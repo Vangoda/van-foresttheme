@@ -1,0 +1,21 @@
+{
+    "name": "van-foresttheme",
+    "displayName": "Van-ForestTheme",
+    "description": "Vangoda's forest theme for VS Code. Predominantly green and brown.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Van Forest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Van Forest-color-theme.json"
+            }
+        ]
+    }
+}
